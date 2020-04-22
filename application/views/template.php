@@ -134,7 +134,7 @@
                 <ul class="sidebar-menu" data-widget="tree">
                     <li class="header">MAIN NAVIGATION</li>
                     <li><a href="#"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a></li>
-                    <li><a href="#"><i class="fa fa-truck"></i> <span>Suppliers</span></a></li>
+                    <!-- <li><a href="#"><i class="fa fa-truck"></i> <span>Suppliers</span></a></li>
                     <li><a href="#"><i class="fa fa-users"></i> <span>Customers</span></a></li>
                     <li class="treeview">
                         <a href="#">
@@ -173,7 +173,7 @@
                             <li><a href=""><i class="fa fa-circle-o"></i>Sales</a></li>
                             <li><a href=""><i class="fa fa-circle-o"></i>Stocks</a></li>
                         </ul>
-                    </li>
+                    </li> -->
                     <li class="header">Setting</li>
                     <li><a href="#"><i class="fa fa-user"></i> <span>User</span></a></li>
                 </ul>
